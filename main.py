@@ -121,5 +121,3 @@ with header:
             st.write("2️⃣"+":heavy_minus_sign:"+":white_medium_small_square:"+"🔥"+":white_medium_small_square:"+'NFLX')
             st.write("3️⃣"+":heavy_minus_sign:"+":white_medium_small_square:"+"🔥"+":white_medium_small_square:"+'APPL')
 
-
-st.write(ticker.info)
