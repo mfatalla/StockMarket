@@ -112,7 +112,6 @@ st.markdown(
 )
 
 st.line_chart(samplechart)
-st.line_chart(samplechart2)
 
 third, second = st.beta_columns([1, 6])
 
